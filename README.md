@@ -17,13 +17,10 @@
 
 
 
-### Glad to see you here!  
+## Glad to see you here!  
 I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.   
-  
-
-<br/>  
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
 
 
 ## Rapidfire  
@@ -34,8 +31,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - ⚡ Fun fact: I use Arch :)  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -57,9 +52,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>  
 
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-<br/>  
