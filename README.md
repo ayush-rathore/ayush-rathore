@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ayush Rathore!  
+# Hey 👋, I'm Ayush Rathore!  
   
 
 <a href="https://github.com/ayush-rathore" target="_blank">
@@ -54,4 +54,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true&hide=issues" align="center" style="width: 100%" /></div>
