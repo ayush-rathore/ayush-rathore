@@ -19,7 +19,7 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning React-Native and Docker  
+- 🌱 I’m currently learning DevOps Technologies  
   
 
 - ❓ Ask me about anything related to MERN Stack and related technologies  
