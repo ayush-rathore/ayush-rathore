@@ -1,4 +1,4 @@
-# Hey 👋, I'm Ayush Rathore!  
+# Hello there! 👋, I'm Ayush Rathore!  
   
   
 <a href="https://twitter.com/ayushrathore_" target="_blank">
