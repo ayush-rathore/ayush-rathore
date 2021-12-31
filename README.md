@@ -44,9 +44,8 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  
 </div>  
 
 
 ## GitHub Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true&hide=issues" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true&hide=issues" align="center" style="width: 80%" /></div>
