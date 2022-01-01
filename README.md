@@ -29,7 +29,7 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 
 
 ## Languages and Tools  
-<div align="center">  
+<div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
@@ -48,4 +48,4 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true&hide=issues" align="center" style="width: 80%" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide_border=true&hide=issues" style="width: 80%" /></div>
