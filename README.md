@@ -1,14 +1,17 @@
-![Ayush](https://github.com/ayush-rathore/ayush-rathore/raw/assets/Ayush.png)
-  
-<a href="https://twitter.com/ayushrathore_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ayushrathore" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ayu.sh_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<p align="center">  
+  <img src="https://github.com/ayush-rathore/ayush-rathore/raw/assets/Ayush.png" alt="Ayush" width="600"/>
+</p>
+<p align="center">  
+  <a href="https://twitter.com/ayushrathore_" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/ayushrathore" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/ayu.sh_/" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
+</p>
   
 
 ## Glad to see you here!  
@@ -47,4 +50,4 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide=issues" style="width: 80%" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide=issues" style="width: 70%" /></div>
