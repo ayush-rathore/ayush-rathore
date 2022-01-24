@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://github.com/ayush-rathore/ayush-rathore/raw/assets/Ayush.png" alt="Ayush" width="600"/>
+  <h1 align="center">Hello there!👋, I'm Ayush Rathore</h1>
 </p>
 <p align="center">  
   <a href="https://twitter.com/ayushrathore_" target="_blank">
