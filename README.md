@@ -2,13 +2,13 @@
   <h1 align="center">Hello there!👋, I'm Ayush Rathore</h1>
 </p>
 <p align="center">  
-  <a href="https://twitter.com/ayushrathore_" target="_blank">
+  <a href="https://twitter.com/ayusshrathore" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/ayushrathore" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/ayu.sh_/" target="_blank">
+  <a href="https://instagram.com/ayusshrathore" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>  
 </p>
@@ -46,9 +46,5 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-<img style="margin: 10px" src="https://github.com/ayush-rathore/ayush-rathore/raw/assets/heroku.svg" alt="Heroku" height="50" />
+<img style="margin: 10px" src="https://github.com/ayusshrathore/ayusshrathore/raw/assets/heroku.svg" alt="Heroku" height="50" />
 </div>  
-
-
-## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide=issues" style="width: 80%;"/></div>
