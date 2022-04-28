@@ -48,3 +48,6 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 <img style="margin: 10px" src="https://github.com/ayusshrathore/ayusshrathore/raw/assets/heroku.svg" alt="Heroku" height="50" />
 </div>  
+
+## GitHub Stats  
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide=issues" style="width: 80%;"/></div>
