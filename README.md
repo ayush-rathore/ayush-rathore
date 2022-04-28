@@ -50,4 +50,4 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 </div>  
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayush-rathore&show_icons=true&count_private=true&hide=issues" style="width: 80%;"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 80%;"/></div>
