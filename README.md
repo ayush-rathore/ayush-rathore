@@ -17,14 +17,14 @@
 ## Glad to see you here!  
 I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I ought to specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
+I tend to specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning Java & DevOps Technologies  
+- 🌱 I’m currently learning <b>Java & DevOps Technologies</b>  
   
 
-- ❓ Ask me about anything related to MERN Stack and related technologies  
+- ❓ Ask me about anything related to <b>MERN Stack</b> and related technologies  
   
 
 - ⚡ Fun fact: I use Arch :)  
@@ -50,4 +50,4 @@ I ought to specialize in building robust backends that do all the heavy lifting 
 </div>  
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 80%;"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
