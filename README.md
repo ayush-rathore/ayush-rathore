@@ -1,7 +1,8 @@
-<p align="center">  
-  <h1 align="center">Hello there!👋, I'm Ayush Rathore</h1>
+<p align="left">  
+  <h1 align="left">Hello there!👋, I'm Ayush Rathore</h1>
 </p>
-<p align="center">  
+<img align="right" width="400" alt="programmer" src="https://personal.freaker.workers.dev/programmer.gif">
+<p align="left">  
   <a href="https://twitter.com/ayusshrathore" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
@@ -36,6 +37,7 @@ I tend to specialize in building robust backends that do all the heavy lifting f
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />           
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
@@ -50,4 +52,6 @@ I tend to specialize in building robust backends that do all the heavy lifting f
 </div>  
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 60%;"/></div>
+
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshrathore&" alt="ayusshrathore" style="width: 60%;"/></div>
