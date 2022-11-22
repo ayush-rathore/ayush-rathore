@@ -1,7 +1,7 @@
 <p align="left">  
   <h1 align="left">Hello there!👋, I'm Ayush Rathore</h1>
 </p>
-<img align="right" width="400" alt="programmer" src="https://personal.freaker.workers.dev/programmer.gif">
+<img align="right" width="400" alt="programmer" src="https://github.com/ayusshrathore/ayusshrathore/raw/assets/programmer.gif">
 <p align="left">  
   <a href="https://twitter.com/ayusshrathore" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
