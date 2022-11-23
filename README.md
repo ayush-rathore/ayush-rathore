@@ -52,6 +52,6 @@ I tend to specialize in building robust backends that do all the heavy lifting f
 </div>  
 
 ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 60%;"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshrathore&" alt="ayusshrathore" style="width: 60%;"/></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshrathore&" alt="ayusshrathore" style="width: 75%;"/></div>
