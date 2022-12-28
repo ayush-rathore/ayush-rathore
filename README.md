@@ -16,13 +16,15 @@
   
 
 ## Glad to see you here!  
-I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+<p style="margin-right: 10px;" >
+  I'm a Full-Stack Developer which allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I tend to specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.     
+  I tend to specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
+</p>
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning <b>Java & DevOps Technologies</b>  
+- 🌱 I’m currently learning <b>Java & DevOps Technologies.</b>  
   
 
 - ❓ Ask me about anything related to <b>MERN Stack</b> and related technologies  
