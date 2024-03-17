@@ -24,7 +24,7 @@
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning <b>Java & DevOps Technologies.</b>  
+- 🌱 I’m currently learning <b>Angular & Spring Boot.</b>  
   
 
 - ❓ Ask me about anything related to <b>MERN Stack</b> and related technologies  
